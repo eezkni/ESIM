@@ -26,7 +26,7 @@ cd ESIM
 
 ## Citation
 
-If this code/ESIMis useful for your research, please cite our paper:
+If this code/ESIM is useful for your research, please cite our paper:
 
 ```
 @article{ni2017esim,
