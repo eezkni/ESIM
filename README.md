@@ -1,32 +1,19 @@
-# ESIM
+## ESIM: Edge Similarity for Screen Content Image Quality Assessment
 
-% This is an implementation of the algorithm for calculating the
-% edge similarity (ESIM) index between two images.
-%
-% Please refer to the following paper
-%
-% Z. Ni, L. Ma, H. Zeng, J. Chen, C. Cai, and K.-K. Ma, “ESIM: Edge 
-% similarity for screen content image quality assessment,” IEEE Transactions 
-% on Image Processing, vol. 26, no. 10, pp. 4818–4831, June 2017.
-% 
-%----------------------------------------------------------------------
-%
-%Input : (1) Y1: the first image being compared
-%        (2) Y2: the second image being compared
-%
-%Output: (1) index: is the similarty score calculated using ESIM algorithm.
-%	     ESIM only considers the luminance component of images. 
-%
-%        (2) SimMatrix: is the local quality map of the distorted image
-%        
-%-----------------------------------------------------------------------
-%
-%Usage:
-%Given 2 test images img1 and img2. For gray-scale images, their dynamic range should be 0-255.
-%For colorful images, the dynamic range of each color channel should be 0-255.
-%
-%[index, SimMatrix] = ESIM(img1, img2);
-%-----------------------------------------------------------------------
+#### IEEE Transactions on Image Processing (T-IP) 
+[Zhangkai Ni](https://eezkni.github.io/), [Lin Ma](http://forestlinma.com/), Huanqiang Zeng, Jing Chen, Canhui Cai, and [Kai-Kuang Ma](https://scholar.google.com/citations?user=GGUNtCsAAAAJ&hl=en)
 
-Implementation: run demo.m
- 
+##### [Project](https://eezkni.github.io/publications/ESIM.html) | [Paper](https://eezkni.github.io/publications/journal/ESIM/ESIM_ZKNI_TIP17.pdf) | [Dataset](https://onedrive.live.com/?authkey=%21AG8z0EkhES1JQY4&cid=2F2705FEBCB6FF84&id=2F2705FEBCB6FF84%21105&parId=2F2705FEBCB6FF84%21104&action=locate)
+
+
+## Introdcurion
+
+This website shares the codes of the "ESIM: Edge Similarity for Screen Content Image Quality Assessment", IEEE Transactions on Image Processing (T-IP), vol. 26, pp. 4818-4831, October 2017. 
+
+<img src="./figures/examples.PNG" width = "100%" height = "100%" div align=center>
+
+
+
+### Abstract
+
+In this paper, an accurate full-reference image quality assessment (IQA) model developed for assessing screen content images (SCIs), called the edge similarity (ESIM), is proposed. It is inspired by the fact that the human visual system (HVS) is highly sensitive to edges that are often encountered in SCIs; therefore, essential edge features are extracted and exploited for conducting IQA for the SCIs. The key novelty of the proposed ESIM lies in the extraction and use of three salient edge features—i.e., edge contrast, edge width, and edge direction. The first two attributes are simultaneously generated from the input SCI based on a parametric edge model, while the last one is derived directly from the input SCI. The extraction of these three features will be performed for the reference SCI and the distorted SCI, individually. The degree of similarity measured for each above-mentioned edge attribute is then computed independently, followed by combining them together using our proposed edge-width pooling strategy to generate the final ESIM score. To conduct the performance evaluation of our proposed ESIM model, a new and the largest SCI database (denoted as SCID) is established in our work and made to the public for download. Our database contains 1800 distorted SCIs that are generated from 40 reference SCIs. For each SCI, nine distortion types are investigated, and five degradation levels are produced for each distortion type. Extensive simulation results have clearly shown that the proposed ESIM model is more consistent with the perception of the HVS on the evaluation of distorted SCIs than the multiple state-of-the-art IQA methods.
