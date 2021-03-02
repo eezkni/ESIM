@@ -10,8 +10,7 @@
 
 This website shares the codes of the "ESIM: Edge Similarity for Screen Content Image Quality Assessment", IEEE Transactions on Image Processing (T-IP), vol. 26, pp. 4818-4831, October 2017. 
 
-<img src="./figures/SCID.jpg" width = "100%" height = "100%" div align=center>
-
+<div align=center><img src="./figures/SCID.jpg" width = "100%" height = "100%" /></div>
 
 
 ### Abstract
@@ -26,15 +25,15 @@ cd ESIM
 ```
 
 ### SCID: Screen Content Image Database
-<img src="./figures/MOS.jpg" width = "100%" height = "100%" div align=center>
+<div align=center><img src="./figures/MOS.jpg" width = "100%" height = "100%" /></div>
 
 
 ### ESIM: Edge-SIMilarity based IQA model for SCI
-<img src="./figures/framework.png" width = "100%" height = "100%" div align=center>
+<div align=center><img src="./figures/framework.png" width = "100%" height = "100%" /></div>
 
 
 ### Experimental Results
-<img src="./figures/Performance.PNG" width = "100%" height = "100%" div align=center>
+<div align=center><img src="./figures/Performance.PNG" width = "100%" height = "100%" /></div>
 
 
 ## Citation
