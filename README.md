@@ -32,7 +32,7 @@ cd ESIM
 
 
 ### ESIM: Edge-SIMilarity based IQA model for SCI
-<div align=center><img src="./figures/framework.png" width = "600" /></div>
+<div align=center><img src="./figures/framework.jpg" width = "600" /></div>
 <!-- <div align=center><img src="./figures/framework.png" width = "80%" height = "80%" /></div> -->
 
 
