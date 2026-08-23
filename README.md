@@ -25,7 +25,7 @@ IEEE Transactions on Image Processing (T-IP), 2017
 
 ## Introdcurion
 
-This website shares the codes of the "ESIM: Edge Similarity for Screen Content Image Quality Assessment", IEEE Transactions on Image Processing (T-IP), vol. 26, pp. 4818-4831, October 2017. 
+This website shares the codes of the "ESIM: Edge Similarity for Screen Content Image Quality Assessment," IEEE Transactions on Image Processing (T-IP), vol. 26, pp. 4818-4831, October 2017. 
 
 <div align=center><img src="./figures/SCID.jpg" width = "100%" height = "100%" /></div>
 <!-- <div align=center><img src="./figures/SCID.jpg" width = "800" /></div> -->
