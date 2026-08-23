@@ -46,17 +46,17 @@ cd ESIM
 <<<<<<< HEAD
 ### SCID: Screen Content Image Database
 <!-- <div align=center><img src="./figures/MOS.jpg" width = "800" /></div> -->
-<div align=center><img src="./figures/MOS.jpg" width = "80%" height = "100%" /></div>
+<div align=center><img src="./figures/MOS.jpg" width = "100%" height = "100%" /></div>
 
 
 ### ESIM: Edge-SIMilarity based IQA model for SCI
 <!-- <div align=center><img src="./figures/framework.jpg" width = "600" /></div> -->
-<div align=center><img src="./figures/framework.png" width = "80%" height = "80%" /></div>
+<div align=center><img src="./figures/framework.jpg" width = "80%" height = "80%" /></div>
 
 
 ### Experimental Results
 <!-- <div align=center><img src="./figures/Performance.PNG" width = "800" /></div> -->
-<div align=center><img src="./figures/Performance.PNG" width = "80%" height = "100%" /></div>
+<div align=center><img src="./figures/Performance.PNG" width = "100%" height = "100%" /></div>
 
 
 ## Citation
