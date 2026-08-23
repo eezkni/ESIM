@@ -1,17 +1,31 @@
-# ESIM: Edge Similarity for Screen Content Image Quality Assessment
+<div align="center">
+  <h1>ESIM: Edge Similarity for Screen Content Image Quality Assessment</h1>
+</div>
+
+<h4 align="center"> 
+
+[Zhangkai Ni](https://eezkni.github.io/), [Lin Ma](http://forestlinma.com/), Huanqiang Zeng, Jing Chen, Canhui Cai, and [Kai-Kuang Ma](https://scholar.google.com/citations?user=GGUNtCsAAAAJ&hl=en)
+
+IEEE Transactions on Image Processing (T-IP), 2017
+
+[Project](https://eezkni.github.io/publications/ESIM.html) | [Dataset](https://onedrive.live.com/?authkey=%21AG8z0EkhES1JQY4&cid=2F2705FEBCB6FF84&id=2F2705FEBCB6FF84%21105&parId=2F2705FEBCB6FF84%21104&action=locate)
+</h4>
+
+
+<!-- # ESIM: Edge Similarity for Screen Content Image Quality Assessment
 
 ### IEEE Transactions on Image Processing (T-IP) 
 [Zhangkai Ni](https://eezkni.github.io/), [Lin Ma](http://forestlinma.com/), Huanqiang Zeng, Jing Chen, Canhui Cai, and [Kai-Kuang Ma](https://scholar.google.com/citations?user=GGUNtCsAAAAJ&hl=en)
 
-### [Project](https://eezkni.github.io/publications/ESIM.html) | [Paper](https://eezkni.github.io/publications/journal/ESIM/ESIM_ZKNI_TIP17.pdf) | [Dataset](https://onedrive.live.com/?authkey=%21AG8z0EkhES1JQY4&cid=2F2705FEBCB6FF84&id=2F2705FEBCB6FF84%21105&parId=2F2705FEBCB6FF84%21104&action=locate)
+### [Project](https://eezkni.github.io/publications/ESIM.html) | [Dataset](https://onedrive.live.com/?authkey=%21AG8z0EkhES1JQY4&cid=2F2705FEBCB6FF84&id=2F2705FEBCB6FF84%21105&parId=2F2705FEBCB6FF84%21104&action=locate) -->
 
 
 ## Introdcurion
 
 This website shares the codes of the "ESIM: Edge Similarity for Screen Content Image Quality Assessment", IEEE Transactions on Image Processing (T-IP), vol. 26, pp. 4818-4831, October 2017. 
 
-<!-- <div align=center><img src="./figures/SCID.jpg" width = "100%" height = "100%" /></div> -->
-<div align=center><img src="./figures/SCID.jpg" width = "800" /></div>
+<div align=center><img src="./figures/SCID.jpg" width = "100%" height = "100%" /></div>
+<!-- <div align=center><img src="./figures/SCID.jpg" width = "800" /></div> -->
 
 
 ## Abstract
@@ -27,18 +41,18 @@ cd ESIM
 
 <<<<<<< HEAD
 ### SCID: Screen Content Image Database
-<div align=center><img src="./figures/MOS.jpg" width = "800" /></div>
-<!-- <div align=center><img src="./figures/MOS.jpg" width = "100%" height = "100%" /></div> -->
+<!-- <div align=center><img src="./figures/MOS.jpg" width = "800" /></div> -->
+<div align=center><img src="./figures/MOS.jpg" width = "80%" height = "100%" /></div>
 
 
 ### ESIM: Edge-SIMilarity based IQA model for SCI
-<div align=center><img src="./figures/framework.jpg" width = "600" /></div>
-<!-- <div align=center><img src="./figures/framework.png" width = "80%" height = "80%" /></div> -->
+<!-- <div align=center><img src="./figures/framework.jpg" width = "600" /></div> -->
+<div align=center><img src="./figures/framework.png" width = "80%" height = "80%" /></div>
 
 
 ### Experimental Results
-<div align=center><img src="./figures/Performance.PNG" width = "800" /></div>
-<!-- <div align=center><img src="./figures/Performance.PNG" width = "100%" height = "100%" /></div> -->
+<!-- <div align=center><img src="./figures/Performance.PNG" width = "800" /></div> -->
+<div align=center><img src="./figures/Performance.PNG" width = "80%" height = "100%" /></div>
 
 
 ## Citation
