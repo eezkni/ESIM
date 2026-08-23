@@ -42,7 +42,6 @@ git clone https://github.com/eezkni/ESIM --recursive
 cd ESIM
 ```
 
-<<<<<<< HEAD
 ### SCID: Screen Content Image Database
 <!-- <div align=center><img src="./figures/MOS.jpg" width = "800" /></div> -->
 <div align=center><img src="./figures/MOS.jpg" width = "100%" height = "100%" /></div>
