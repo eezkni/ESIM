@@ -6,7 +6,7 @@
 
 [Zhangkai Ni](https://eezkni.github.io/), [Lin Ma](http://forestlinma.com/), Huanqiang Zeng, Jing Chen, Canhui Cai, and [Kai-Kuang Ma](https://scholar.google.com/citations?user=GGUNtCsAAAAJ&hl=en)
 
-IEEE Transactions on Image Processing (T-IP), 2017
+IEEE Transactions on Image Processing (TIP), 2017
 
 [Project](https://eezkni.github.io/publications/ESIM.html) | [Dataset](https://onedrive.live.com/?authkey=%21AG8z0EkhES1JQY4&cid=2F2705FEBCB6FF84&id=2F2705FEBCB6FF84%21105&parId=2F2705FEBCB6FF84%21104&action=locate)
 </h4>
