@@ -23,7 +23,7 @@ IEEE Transactions on Image Processing (TIP), 2017
 <!-- ### [Project](https://eezkni.github.io/publications/ESIM.html) | [Paper](https://eezkni.github.io/publications/journal/ESIM/ESIM_ZKNI_TIP17.pdf) | [Dataset](https://drive.google.com/file/d/1B0oykTpi-avO11N8VRGlDKZvU2KVjRO8/view?usp=sharing) -->
 
 
-## Introdcurion
+<!-- ## Introdcurion -->
 
 This website shares the codes of the "ESIM: Edge Similarity for Screen Content Image Quality Assessment," IEEE Transactions on Image Processing (T-IP), vol. 26, pp. 4818-4831, October 2017. 
 
