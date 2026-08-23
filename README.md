@@ -4,7 +4,7 @@
 
 <h4 align="center"> 
 
-[Zhangkai Ni](https://eezkni.github.io/), [Lin Ma](http://forestlinma.com/), Huanqiang Zeng, Jing Chen, Canhui Cai, and [Kai-Kuang Ma](https://scholar.google.com/citations?user=GGUNtCsAAAAJ&hl=en)
+[Zhangkai Ni](https://eezkni.github.io/), [Lin Ma](https://scholar.google.com/citations?user=DAn1pA4AAAAJ&hl=en), [Huanqiang Zeng](https://scholar.google.com/citations?user=-QvoSUkAAAAJ&hl=en), Jing Chen, Canhui Cai, and [Kai-Kuang Ma](https://scholar.google.com/citations?user=GGUNtCsAAAAJ&hl=en)
 
 IEEE Transactions on Image Processing (TIP), 2017
 
