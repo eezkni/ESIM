@@ -17,7 +17,11 @@ IEEE Transactions on Image Processing (T-IP), 2017
 ### IEEE Transactions on Image Processing (T-IP) 
 [Zhangkai Ni](https://eezkni.github.io/), [Lin Ma](http://forestlinma.com/), Huanqiang Zeng, Jing Chen, Canhui Cai, and [Kai-Kuang Ma](https://scholar.google.com/citations?user=GGUNtCsAAAAJ&hl=en)
 
+<<<<<<< HEAD
 ### [Project](https://eezkni.github.io/publications/ESIM.html) | [Dataset](https://onedrive.live.com/?authkey=%21AG8z0EkhES1JQY4&cid=2F2705FEBCB6FF84&id=2F2705FEBCB6FF84%21105&parId=2F2705FEBCB6FF84%21104&action=locate) -->
+=======
+### [Project](https://eezkni.github.io/publications/ESIM.html) | [Paper](https://eezkni.github.io/publications/journal/ESIM/ESIM_ZKNI_TIP17.pdf) | [Dataset](https://drive.google.com/file/d/1B0oykTpi-avO11N8VRGlDKZvU2KVjRO8/view?usp=sharing)
+>>>>>>> 6f7e3f63643b7eff06d907d38a2b0d5cdfb2700b
 
 
 ## Introdcurion
